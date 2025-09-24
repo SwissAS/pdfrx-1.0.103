@@ -1,0 +1,5 @@
+D:/Users/atch/AppData/Local/Pub/Cache/hosted/pub.dev/pdfrx-1.0.103/android/.cxx/RelWithDebInfo/10453u6x/x86/CMakeFiles/edit_cache.dir
+D:/Users/atch/AppData/Local/Pub/Cache/hosted/pub.dev/pdfrx-1.0.103/android/.cxx/RelWithDebInfo/10453u6x/x86/CMakeFiles/rebuild_cache.dir
+D:/Users/atch/AppData/Local/Pub/Cache/hosted/pub.dev/pdfrx-1.0.103/android/.cxx/RelWithDebInfo/10453u6x/x86/shared/CMakeFiles/pdfrx.dir
+D:/Users/atch/AppData/Local/Pub/Cache/hosted/pub.dev/pdfrx-1.0.103/android/.cxx/RelWithDebInfo/10453u6x/x86/shared/CMakeFiles/edit_cache.dir
+D:/Users/atch/AppData/Local/Pub/Cache/hosted/pub.dev/pdfrx-1.0.103/android/.cxx/RelWithDebInfo/10453u6x/x86/shared/CMakeFiles/rebuild_cache.dir

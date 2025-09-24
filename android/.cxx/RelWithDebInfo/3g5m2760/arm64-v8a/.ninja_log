@@ -1,0 +1,3 @@
+# ninja log v5
+2	631	7803261853569996	shared/CMakeFiles/pdfrx.dir/pdfium_interop.cpp.o	c35a7c2cfd09c182
+650	874	7803261855776702	E:/ws/flutter/android-studio/packages/etl_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/3g5m2760/obj/arm64-v8a/libpdfrx.so	86c64f3048ea75e8

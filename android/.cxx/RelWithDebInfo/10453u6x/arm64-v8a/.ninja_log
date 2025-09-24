@@ -1,0 +1,11 @@
+# ninja log v5
+1	541	7803254833847180	shared/CMakeFiles/pdfrx.dir/pdfium_interop.cpp.o	be2c9830339ac366
+557	803	7803254836244763	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/arm64-v8a/libpdfrx.so	407988110e2caef9
+3	276	7803271052532353	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/arm64-v8a/libpdfrx.so	407988110e2caef9
+19	290	7803359214445627	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/arm64-v8a/libpdfrx.so	407988110e2caef9
+2	210	7803378733104009	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/arm64-v8a/libpdfrx.so	407988110e2caef9
+3	201	7803401080583912	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/arm64-v8a/libpdfrx.so	407988110e2caef9
+2	360	7803417115604156	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/arm64-v8a/libpdfrx.so	407988110e2caef9
+2	226	7803435772976645	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/arm64-v8a/libpdfrx.so	407988110e2caef9
+3	208	7803445755488458	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/arm64-v8a/libpdfrx.so	407988110e2caef9
+2	219	7803455531412447	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/arm64-v8a/libpdfrx.so	407988110e2caef9

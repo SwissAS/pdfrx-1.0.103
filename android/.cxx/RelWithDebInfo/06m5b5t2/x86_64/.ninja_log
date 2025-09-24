@@ -1,0 +1,12 @@
+# ninja log v5
+0	308	7803469793204672	shared/CMakeFiles/pdfrx.dir/pdfium_interop.cpp.o	55f88aa99854654e
+319	507	7803469795086291	E:/ws/flutter/android-studio/packages/etl_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/06m5b5t2/obj/x86_64/libpdfrx.so	63263400797ca57b
+5	276	7803470827986981	E:/ws/flutter/android-studio/packages/etl_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/06m5b5t2/obj/x86_64/libpdfrx.so	63263400797ca57b
+5	344	7803984785828600	E:/ws/flutter/android-studio/packages/etl_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/06m5b5t2/obj/x86_64/libpdfrx.so	63263400797ca57b
+0	23	0	clean	cc2019f6a7445fed
+0	24	0	clean	cc2019f6a7445fed
+4	616	7803993356476832	shared/CMakeFiles/pdfrx.dir/pdfium_interop.cpp.o	55f88aa99854654e
+617	814	7803993358272993	E:/ws/flutter/android-studio/packages/etl_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/06m5b5t2/obj/x86_64/libpdfrx.so	63263400797ca57b
+6	393	7803996069483038	E:/ws/flutter/android-studio/packages/etl_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/06m5b5t2/obj/x86_64/libpdfrx.so	63263400797ca57b
+5	355	7804004149280806	E:/ws/flutter/android-studio/packages/etl_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/06m5b5t2/obj/x86_64/libpdfrx.so	63263400797ca57b
+2	315	7804079628615437	E:/ws/flutter/android-studio/packages/etl_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/06m5b5t2/obj/x86_64/libpdfrx.so	63263400797ca57b

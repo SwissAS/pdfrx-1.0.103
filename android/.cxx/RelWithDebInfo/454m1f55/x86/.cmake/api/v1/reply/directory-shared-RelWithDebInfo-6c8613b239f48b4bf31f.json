@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "shared",
+		"source" : "D:/Users/atch/AppData/Local/Pub/Cache/hosted/pub.dev/pdfrx-1.0.103/src"
+	}
+}

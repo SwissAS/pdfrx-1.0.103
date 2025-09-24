@@ -1,0 +1,30 @@
+{
+  "buildFiles": [
+    "D:\\Users\\atch\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\pdfrx-1.0.103\\android\\CMakeLists.txt",
+    "D:\\Users\\atch\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\pdfrx-1.0.103\\src\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Users\\atch\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\Users\\atch\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\pdfrx-1.0.103\\android\\.cxx\\RelWithDebInfo\\10453u6x\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Users\\atch\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\Users\\atch\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\pdfrx-1.0.103\\android\\.cxx\\RelWithDebInfo\\10453u6x\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "pdfrx::@b1f7512934231ee3f25d": {
+      "artifactName": "pdfrx",
+      "abi": "x86_64",
+      "output": "E:\\ws\\flutter\\android-studio\\packages\\store_app\\build\\pdfrx\\intermediates\\cxx\\RelWithDebInfo\\10453u6x\\obj\\x86_64\\libpdfrx.so",
+      "runtimeFiles": [
+        "D:\\Users\\atch\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\pdfrx-1.0.103\\android\\.lib\\latest\\x86_64\\libpdfium.so"
+      ]
+    }
+  }
+}

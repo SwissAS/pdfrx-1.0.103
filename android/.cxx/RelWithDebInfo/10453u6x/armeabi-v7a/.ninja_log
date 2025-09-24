@@ -1,0 +1,11 @@
+# ninja log v5
+1	416	7803254895456968	shared/CMakeFiles/pdfrx.dir/pdfium_interop.cpp.o	de5a9615a8545579
+431	653	7803254897593481	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/armeabi-v7a/libpdfrx.so	9beb5eb005a451a2
+3	276	7803271056755784	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/armeabi-v7a/libpdfrx.so	9beb5eb005a451a2
+3	247	7803359219647969	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/armeabi-v7a/libpdfrx.so	9beb5eb005a451a2
+2	192	7803378736364516	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/armeabi-v7a/libpdfrx.so	9beb5eb005a451a2
+2	209	7803401085406690	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/armeabi-v7a/libpdfrx.so	9beb5eb005a451a2
+3	381	7803417121632645	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/armeabi-v7a/libpdfrx.so	9beb5eb005a451a2
+5	238	7803435776593522	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/armeabi-v7a/libpdfrx.so	9beb5eb005a451a2
+2	219	7803445759631122	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/armeabi-v7a/libpdfrx.so	9beb5eb005a451a2
+2	194	7803455535259744	E:/ws/flutter/android-studio/packages/store_app/build/pdfrx/intermediates/cxx/RelWithDebInfo/10453u6x/obj/armeabi-v7a/libpdfrx.so	9beb5eb005a451a2

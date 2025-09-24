@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "shared",
+					"jsonFile" : "directory-shared-RelWithDebInfo-6c8613b239f48b4bf31f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "D:/Users/atch/AppData/Local/Pub/Cache/hosted/pub.dev/pdfrx-1.0.103/src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pdfrx"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "pdfrx_library",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "pdfrx::@b1f7512934231ee3f25d",
+					"jsonFile" : "target-pdfrx-RelWithDebInfo-855627283167c27eac83.json",
+					"name" : "pdfrx",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/atch/AppData/Local/Pub/Cache/hosted/pub.dev/pdfrx-1.0.103/android/.cxx/RelWithDebInfo/3g5m2760/x86_64",
+		"source" : "D:/Users/atch/AppData/Local/Pub/Cache/hosted/pub.dev/pdfrx-1.0.103/android"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Users/atch/AppData/Local/Pub/Cache/hosted/pub.dev/pdfrx-1.0.103/android/.cxx/RelWithDebInfo/06m5b5t2/x86",
+  "command": "D:\\Users\\atch\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --sysroot=D:/Users/atch/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DDART_SHARED_LIB -Dpdfrx_EXPORTS -ID:/Users/atch/AppData/Local/Pub/Cache/hosted/pub.dev/pdfrx-1.0.103/android/.lib/latest/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -o shared\\CMakeFiles\\pdfrx.dir\\pdfium_interop.cpp.o -c D:\\Users\\atch\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\pdfrx-1.0.103\\src\\pdfium_interop.cpp",
+  "file": "D:\\Users\\atch\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\pdfrx-1.0.103\\src\\pdfium_interop.cpp"
+}
+]
